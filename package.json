@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "echarts": "^4.9.0",
+    "video.js": "^8.3.0",
+    "videojs-contrib-hls": "^5.15.0",
+    "videojs-flash": "^2.2.1"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "core-js": "^3.8.3",
+    "echarts": "^4.9.0",
+    "element-ui": "^2.15.13",
+    "speak-tts": "^2.0.8",
+    "vue": "^2.6.14",
+    "vue-echarts": "^6.5.5",
+    "vue-router": "^3.5.1",
+    "vue-sweetalert2": "^5.0.5",
+    "vue-video-player": "^5.0.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "less": "^4.1.3",
+    "less-loader": "^11.1.3",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
